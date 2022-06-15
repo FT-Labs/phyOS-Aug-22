@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=phyOS Welcome
+GenericName=phyOS Welcome
+Comment=Welcome App for phyOS installation
+Exec=/usr/local/bin/phyOS-welcome-app
+Icon=phyOS-logo
+Terminal=false
+Type=Application
+Categories=Qt;Settings;Security;
+Keywords=welcome;
+StartupNotify=true
