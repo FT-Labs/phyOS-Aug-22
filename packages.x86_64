@@ -109,6 +109,7 @@ polkit
 python-virtualenv
 pulsemixer
 reiserfsprogs
+reflector
 ripgrep
 rp-pppoe
 rsync
@@ -210,6 +211,7 @@ phyOS-st
 phyOS-dwm
 phyOS-sysconf
 phyOS-cala-config
+phyOS-calamares
 
 libxft-bgra
 cointop
