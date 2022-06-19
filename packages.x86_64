@@ -212,6 +212,7 @@ phyOS-dwm
 phyOS-sysconf
 phyOS-cala-config
 phyOS-calamares
+phyOS-systemd-services
 
 libxft-bgra
 cointop
