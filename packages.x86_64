@@ -28,6 +28,7 @@ edk2-shell
 efibootmgr
 espeakup
 ethtool
+exa
 exfatprogs
 f2fs-tools
 fatresize
@@ -129,7 +130,6 @@ usbmuxd
 usbutils
 vlc
 vpnc
-yay-bin
 wget
 wireless-regdb
 wireless_tools
@@ -143,13 +143,13 @@ zip
 unzip
 zsh
 zsh-completions
-zsh-syntax-highlighting
+zsh-fast-syntax-highlighting
 
-# browser
+# utils
 ungoogled-chromium
+gotop
 
-
-# xorg
+# xorg - compositor
 picom
 qt5ct
 xcape
@@ -162,8 +162,6 @@ xorg-xinit
 xorg-xmessage
 xsel
 xwallpaper
-
-bash-completion
 xf86-video-intel
 
 # sound
@@ -178,7 +176,17 @@ pulseaudio-alsa
 
 # login manager
 sddm
+# default theme
+phyOS-sddm-default
 
+#encryption
+cryptsetup
+
+#bluetooth
+bluez
+bluez-libs
+bluez-utils
+pulseaudio-bluetooth
 
 # installer
 grub
@@ -191,19 +199,21 @@ nvidia-settings
 s-tui
 
 # main os packages
-gotop
+phyOS-base-themes
+phyOS-fonts
+phyOS-sysinstall
+phyOS-dmenu
+phyOS-sddm-default
+phyOS-xmenu
+phyOS-dunst
+phyOS-st
+phyOS-dwm
+phyOS-sysconf
+phyOS-cala-config
+
 libxft-bgra
-cala-config-phyOS
 cointop
-dmenu-phyOS
-dunst-phyOS
-dwm-phyOS
-dwmblocks-phyOS
-fonts-phyOS
-xmenu-phyOS
 libnotify
-phyOS-repo/calamares
-st-phyOS
 rofi
 ttf-dejavu
 ttf-jetbrains-mono
