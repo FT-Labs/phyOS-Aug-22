@@ -15,6 +15,8 @@ airootfs_image_type="squashfs"
 airootfs_image_tool_options=('-comp' 'xz' '-Xbcj' 'x86' '-b' '1M' '-Xdict-size' '1M')
 file_permissions=(
   ["/etc/shadow"]="0:0:400"
+  ["/etc/polkit-1/rules.d"]="0:0:750"
+  ["/etc/sudoers.d"]="0:0:750"
   ["/root/"]="0:0:744"
   ["/etc/skel/"]="0:0:755"
 )

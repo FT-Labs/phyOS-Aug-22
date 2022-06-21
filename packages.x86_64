@@ -16,6 +16,7 @@ crda
 cryptsetup
 darkhttpd
 ddrescue
+dex
 dhclient
 dhcpcd
 diffutils
@@ -106,6 +107,7 @@ pipewire
 ppp
 pptpclient
 polkit
+powerline
 python-virtualenv
 pulsemixer
 reiserfsprogs
