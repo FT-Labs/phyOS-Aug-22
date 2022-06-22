@@ -50,6 +50,7 @@ intel-ucode
 ipw2100-fw
 ipw2200-fw
 irssi
+iw
 jfsutils
 lftp
 lib32-gtk3
@@ -131,6 +132,7 @@ unzip
 usb_modeswitch
 usbmuxd
 usbutils
+virtualbox-guest-utils
 vlc
 vpnc
 wget
@@ -167,6 +169,7 @@ xsel
 xwallpaper
 xf86-video-intel
 
+chaotic-keyring
 # sound
 alsa-firmware
 alsa-plugins

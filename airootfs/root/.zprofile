@@ -5,7 +5,7 @@
 # Default programs:
 export EDITOR="nvim"
 export TERMINAL="st"
-export BROWSER="chromium"
+export BROWSER="chromium --no-sandbox"
 export READER="zathura"
 export COMPOSITOR="picom" # Added this to toggle compositor from dwm
 
