@@ -3,15 +3,10 @@
 	filemode = true
 	bare = true
 [status]
-	showUnTrackedFiles = no
+	showUntrackedFiles = no
 [remote "origin"]
-	url = https://github.com/phytech-r0/dotfiles
+	url = https://github.com/PhyTech-R0/dotfiles
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
-[credential]
-	helper = store
-[branch "myfulldots"]
-	remote = origin
-	merge = refs/heads/myfulldots

@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+0809fb155ecb1cd40c2a3ee5b74eab127aec2c51 refs/heads/master
+03a857df869f90a26ee16ca431d57f20cf973bf0 refs/remotes/origin/master
+1a9c66246ab31e3dc7cc0a533bc5d55d7d89809a refs/remotes/origin/myfulldots
+ef290b5a1d2dcac3184bde7b5e83714fa34d9ab7 refs/stash

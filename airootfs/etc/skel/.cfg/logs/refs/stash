@@ -1,6 +1,5 @@
-0000000000000000000000000000000000000000 e19e09818e760059969251586fc4e864f5658538 phytech-r0 <phystecharda@gmail.com> 1645184986 +0300	WIP on master: da02926 picom
-e19e09818e760059969251586fc4e864f5658538 94cdabe346dfa1ec66e752ff2202499a3d30f7ca phytech-r0 <phystecharda@gmail.com> 1646517972 +0000	WIP on master: 3d5491b bufferline upd
-94cdabe346dfa1ec66e752ff2202499a3d30f7ca c0db035605e056966f26d6b91a8c236cc8e15fd0 phytech-r0 <phystecharda@gmail.com> 1646789716 +0000	WIP on master: c4a65a6 dots git upd added
-c0db035605e056966f26d6b91a8c236cc8e15fd0 0e272b3abb5798cf4d7fa34facef2dd1bef39d08 phytech-r0 <phystecharda@gmail.com> 1646869476 +0000	WIP on master: a9b7f23 ts indent false
-0e272b3abb5798cf4d7fa34facef2dd1bef39d08 dcd66ecf4c4098841f6b3517aa2e00c4b3b37e08 phytech-r0 <phystecharda@gmail.com> 1653500002 +0000	WIP on master: 7be3991 dots upd
-dcd66ecf4c4098841f6b3517aa2e00c4b3b37e08 964225835f38d9b5e1b39508df881727acf683f1 phytech-r0 <phystecharda@gmail.com> 1653617682 +0000	WIP on master: aa1a8ae bindkey macro
+0000000000000000000000000000000000000000 10cdf18e697c735e364807ae63f543ba6219cb38 arda <phystecharda@gmail.com> 1644653550 +0300	WIP on master: c13ecd3 v1.0
+10cdf18e697c735e364807ae63f543ba6219cb38 2be7fad0a0ffd0a938958c778928600e6d19b7ef arda <phystecharda@gmail.com> 1644879579 +0300	WIP on master: c728624 scripts upd
+2be7fad0a0ffd0a938958c778928600e6d19b7ef db8c4f8a26415c39bb6614f9db5dc832729d0f38 arda <phystecharda@gmail.com> 1646522434 +0300	WIP on master: 7b6a32c toggleterm plugin added
+db8c4f8a26415c39bb6614f9db5dc832729d0f38 7fc00aee04e7ad777c0a263d8f0119dd505bfaa0 arda <phystecharda@gmail.com> 1649622206 +0300	WIP on master: 4d2896a bm added, zsh changes, new exports
+7fc00aee04e7ad777c0a263d8f0119dd505bfaa0 ef290b5a1d2dcac3184bde7b5e83714fa34d9ab7 arda <phystecharda@gmail.com> 1651791086 +0300	WIP on master: f05dbf0 snip C fix

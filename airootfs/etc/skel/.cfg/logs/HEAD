@@ -1,121 +1,166 @@
-0000000000000000000000000000000000000000 3a364fe766dba2dbaa7b096acb0e80ad0e6f4513 rzero <rzero@phytech.(none)> 1644917158 +0300	initial pull
-3a364fe766dba2dbaa7b096acb0e80ad0e6f4513 aff6eac820c7844b90e95173a35a7419ebf8dda2 rzero <rzero@phytech.(none)> 1645081940 +0300	pull origin master: Fast-forward
-aff6eac820c7844b90e95173a35a7419ebf8dda2 aff6eac820c7844b90e95173a35a7419ebf8dda2 rzero <rzero@phytech.(none)> 1645081950 +0300	checkout: moving from master to master
-aff6eac820c7844b90e95173a35a7419ebf8dda2 a80c3929fea02a1501fc51a5372e00607d80977d phytech-r0 <phystecharda@gmail.com> 1645090631 +0300	commit: multi monitor refresh rate feature
-a80c3929fea02a1501fc51a5372e00607d80977d fe00129a5e214f147f2b7cc1770707595ee4c2f1 phytech-r0 <phystecharda@gmail.com> 1645091885 +0300	commit: record upd
-fe00129a5e214f147f2b7cc1770707595ee4c2f1 da029268e181ace6df7610d4e6124e138fa0ae7f phytech-r0 <phystecharda@gmail.com> 1645096631 +0300	commit: picom
-da029268e181ace6df7610d4e6124e138fa0ae7f da029268e181ace6df7610d4e6124e138fa0ae7f phytech-r0 <phystecharda@gmail.com> 1645184986 +0300	reset: moving to HEAD
-da029268e181ace6df7610d4e6124e138fa0ae7f 60fe81b45419f81db5c4567fb4d1eb4c6662e119 phytech-r0 <phystecharda@gmail.com> 1645184989 +0300	pull: Fast-forward
-60fe81b45419f81db5c4567fb4d1eb4c6662e119 1ad2fe2b56109694adbc12c3b19f86c71ff8a85f phytech-r0 <phystecharda@gmail.com> 1645186631 +0300	pull: Fast-forward
-1ad2fe2b56109694adbc12c3b19f86c71ff8a85f 51ecf5a81cb39e85e59eadd8f7ff4975bae0d5d1 phytech-r0 <phystecharda@gmail.com> 1645266876 +0000	commit: scripts update
-51ecf5a81cb39e85e59eadd8f7ff4975bae0d5d1 34a1492e70d300ea2ec896b82cfc7f4244e1c4da phytech-r0 <phystecharda@gmail.com> 1645271504 +0000	commit: vim update
-34a1492e70d300ea2ec896b82cfc7f4244e1c4da 0e9d2f155be18a2790ed695e9598185d4bacfdb8 phytech-r0 <phystecharda@gmail.com> 1645284641 +0000	commit: scripts update
-0e9d2f155be18a2790ed695e9598185d4bacfdb8 c054a379df1785dc0ec0de024b75d86a456f9803 phytech-r0 <phystecharda@gmail.com> 1645406800 +0000	commit: scripts, dynamic window name in st
-c054a379df1785dc0ec0de024b75d86a456f9803 a35801dea5eab5e3d8041fe01bc916df21303f4c phytech-r0 <phystecharda@gmail.com> 1645410446 +0000	commit: rofi vim keys with super+(j-k-h-l)
-a35801dea5eab5e3d8041fe01bc916df21303f4c 36fd6fccdb55d5c3a167a00ebf79bc114930e0c4 phytech-r0 <phystecharda@gmail.com> 1645414057 +0000	commit: init.vim
-36fd6fccdb55d5c3a167a00ebf79bc114930e0c4 9f01a6493797ffa497b1982bcead4c2088ba99b8 phytech-r0 <phystecharda@gmail.com> 1645494408 +0000	commit: chadtree (nerdtree replacement)
-9f01a6493797ffa497b1982bcead4c2088ba99b8 c3678f0761fa3685b97429e4083d21c48ad2dbfe phytech-r0 <phystecharda@gmail.com> 1645495037 +0000	commit: echo doc
-c3678f0761fa3685b97429e4083d21c48ad2dbfe cee377fdf98fe59878241ee825328dc59b72f00a phytech-r0 <phystecharda@gmail.com> 1645657491 +0000	pull: Fast-forward
-cee377fdf98fe59878241ee825328dc59b72f00a b5b603042b5a62937e00dbca0b298df84c60c1ac phytech-r0 <phystecharda@gmail.com> 1645837285 +0000	commit: vim update -> lua
-b5b603042b5a62937e00dbca0b298df84c60c1ac 4870c86254f2c945d76e81408f02424ec1e7b075 phytech-r0 <phystecharda@gmail.com> 1645837602 +0000	commit: cmp update
-4870c86254f2c945d76e81408f02424ec1e7b075 52316d5dc80b40f244ad45e1f5573c768e2456f3 phytech-r0 <phystecharda@gmail.com> 1645838198 +0000	commit: blankline and handlers fix
-52316d5dc80b40f244ad45e1f5573c768e2456f3 b346f8c467b59c752b2cefebd2e30a7544fe5261 phytech-r0 <phystecharda@gmail.com> 1645838591 +0000	commit: indent line plugin
-b346f8c467b59c752b2cefebd2e30a7544fe5261 21765d425af000696c8507f89f661950632dfab8 phytech-r0 <phystecharda@gmail.com> 1645846481 +0000	commit: signature hover, auto space between pairs
-21765d425af000696c8507f89f661950632dfab8 4c8b82664dd4910409b498569d1596fe1a861758 phytech-r0 <phystecharda@gmail.com> 1645870443 +0000	commit: lua vim upd
-4c8b82664dd4910409b498569d1596fe1a861758 0e7a37dab065e37374728f39bf2c6045c41c6bab phytech-r0 <phystecharda@gmail.com> 1646095651 +0000	commit: dots updated
-0e7a37dab065e37374728f39bf2c6045c41c6bab 83a22e75e86fbb21cff41774753e9331331d47ce phytech-r0 <phystecharda@gmail.com> 1646097146 +0000	pull: Fast-forward
-83a22e75e86fbb21cff41774753e9331331d47ce 66256ed3a8a43f082532760788935d478c637e61 phytech-r0 <phystecharda@gmail.com> 1646102401 +0000	commit: lua vim update
-66256ed3a8a43f082532760788935d478c637e61 89b7d8b0b9d7e84898937cd50e5dbc72527bd643 phytech-r0 <phystecharda@gmail.com> 1646175885 +0000	commit: nvim upd
-89b7d8b0b9d7e84898937cd50e5dbc72527bd643 11ae3066fffa2b35ae73a5583920f1116925f8b0 phytech-r0 <phystecharda@gmail.com> 1646184304 +0000	commit: dots upd
-11ae3066fffa2b35ae73a5583920f1116925f8b0 7c174aab5c542815a009db54856f969ad8fb8241 phytech-r0 <phystecharda@gmail.com> 1646184320 +0000	pull --rebase (start): checkout 7c174aab5c542815a009db54856f969ad8fb8241
-7c174aab5c542815a009db54856f969ad8fb8241 557ba6472ee5b8e1b16d60643e84a8e8c9cb7fb1 phytech-r0 <phystecharda@gmail.com> 1646184320 +0000	pull --rebase (pick): dots upd
-557ba6472ee5b8e1b16d60643e84a8e8c9cb7fb1 557ba6472ee5b8e1b16d60643e84a8e8c9cb7fb1 phytech-r0 <phystecharda@gmail.com> 1646184320 +0000	pull --rebase (finish): returning to refs/heads/master
-557ba6472ee5b8e1b16d60643e84a8e8c9cb7fb1 3d5491bfe5cba7ce289f29c67d767175209f34b2 phytech-r0 <phystecharda@gmail.com> 1646355777 +0000	pull: Fast-forward
-3d5491bfe5cba7ce289f29c67d767175209f34b2 3d5491bfe5cba7ce289f29c67d767175209f34b2 phytech-r0 <phystecharda@gmail.com> 1646517972 +0000	reset: moving to HEAD
-3d5491bfe5cba7ce289f29c67d767175209f34b2 9b0515f8d696e2c6cfb20e1b37aaaf6b60cfc661 phytech-r0 <phystecharda@gmail.com> 1646517974 +0000	pull: Fast-forward
-9b0515f8d696e2c6cfb20e1b37aaaf6b60cfc661 099cb0e34b88ff4167ef93c44cabdb3a223701c4 phytech-r0 <phystecharda@gmail.com> 1646614459 +0000	pull: Fast-forward
-099cb0e34b88ff4167ef93c44cabdb3a223701c4 f2c804186355c520cf4ca62cf8c75fbd75f0457e phytech-r0 <phystecharda@gmail.com> 1646614507 +0000	commit: dots up
-f2c804186355c520cf4ca62cf8c75fbd75f0457e 5e89c7058ae778ba8efb589bd42e77f2a7811d14 phytech-r0 <phystecharda@gmail.com> 1646618521 +0000	commit: dots upd
-5e89c7058ae778ba8efb589bd42e77f2a7811d14 329b1dd92be388c960ddeca5687a66c3df0e26ee phytech-r0 <phystecharda@gmail.com> 1646619102 +0000	commit: rofi upd
-329b1dd92be388c960ddeca5687a66c3df0e26ee 5214afae29dfa140f244fedf29915321b730e597 phytech-r0 <phystecharda@gmail.com> 1646704329 +0000	commit: power menu script update
-5214afae29dfa140f244fedf29915321b730e597 1c1fcead2df42671bd9fec747e261e45981174e7 phytech-r0 <phystecharda@gmail.com> 1646704601 +0000	commit: powermenu upd
-1c1fcead2df42671bd9fec747e261e45981174e7 c4a65a6f96bd4d4868e8d14187a5b990712db65b phytech-r0 <phystecharda@gmail.com> 1646704852 +0000	commit: dots git upd added
-c4a65a6f96bd4d4868e8d14187a5b990712db65b c4a65a6f96bd4d4868e8d14187a5b990712db65b phytech-r0 <phystecharda@gmail.com> 1646789716 +0000	reset: moving to HEAD
-c4a65a6f96bd4d4868e8d14187a5b990712db65b d69ed155e163097e84b1138a9efdac4827fefcc0 phytech-r0 <phystecharda@gmail.com> 1646789718 +0000	pull: Fast-forward
-d69ed155e163097e84b1138a9efdac4827fefcc0 a9b7f23ba8d9973af38fc5fad42aa4ddee44820f phytech-r0 <phystecharda@gmail.com> 1646789921 +0000	commit: ts indent false
-a9b7f23ba8d9973af38fc5fad42aa4ddee44820f a9b7f23ba8d9973af38fc5fad42aa4ddee44820f phytech-r0 <phystecharda@gmail.com> 1646869476 +0000	reset: moving to HEAD
-a9b7f23ba8d9973af38fc5fad42aa4ddee44820f aafc5579a0a94e56672df08e9b1b95e96d3c2f87 phytech-r0 <phystecharda@gmail.com> 1646869477 +0000	pull: Fast-forward
-aafc5579a0a94e56672df08e9b1b95e96d3c2f87 33112b5e1825b499b3f2a732187977cc3e320179 phytech-r0 <phystecharda@gmail.com> 1646872400 +0000	commit: compwrite script
-33112b5e1825b499b3f2a732187977cc3e320179 8a4c299c199a8987552e232d023f241e2dba4c7b phytech-r0 <phystecharda@gmail.com> 1646873029 +0000	commit: dots upd
-8a4c299c199a8987552e232d023f241e2dba4c7b 7d1688c3ff3d08b20612999a5c0fe83edeba9d0b phytech-r0 <phystecharda@gmail.com> 1646873893 +0000	commit: powermenu upd
-7d1688c3ff3d08b20612999a5c0fe83edeba9d0b cc38e90527d7cf3ed86163ffd4dfae6c42134bab phytech-r0 <phystecharda@gmail.com> 1646875131 +0000	commit: null ls python disabled
-cc38e90527d7cf3ed86163ffd4dfae6c42134bab ef40c87d0d25366fc64a81b184f267d4d5d2750b phytech-r0 <phystecharda@gmail.com> 1646951724 +0000	commit: dots upd
-ef40c87d0d25366fc64a81b184f267d4d5d2750b 823e92519c73f3fa15ebd9dfad89c3559c9b6a30 phytech-r0 <phystecharda@gmail.com> 1646952044 +0000	commit: nvim nullls upd
-823e92519c73f3fa15ebd9dfad89c3559c9b6a30 45b50b07c52f54d709e33f532ede0e4eb52e57b6 phytech-r0 <phystecharda@gmail.com> 1646952200 +0000	commit: picom upd
-45b50b07c52f54d709e33f532ede0e4eb52e57b6 b475ab957f559c7100fb590d3b79224d5448e16e phytech-r0 <phystecharda@gmail.com> 1646953484 +0000	commit: cmp upd
-b475ab957f559c7100fb590d3b79224d5448e16e 571dd3f7bf6869bf3b216c214387e545f67f67c4 phytech-r0 <phystecharda@gmail.com> 1647049772 +0000	commit: dots upd
-571dd3f7bf6869bf3b216c214387e545f67f67c4 595ee7e7c531f4a05cb340b965a7979b3d3e17db phytech-r0 <phystecharda@gmail.com> 1647220647 +0000	pull: Fast-forward
-595ee7e7c531f4a05cb340b965a7979b3d3e17db 4988a26ad4d6a3d2d6100ad5a7e1e0a13874db4e phytech-r0 <phystecharda@gmail.com> 1647224025 +0000	commit: r rate down
-4988a26ad4d6a3d2d6100ad5a7e1e0a13874db4e f8408ed948f39beca1cd91c9000854f5de412f20 phytech-r0 <phystecharda@gmail.com> 1647643637 +0000	pull: Fast-forward
-f8408ed948f39beca1cd91c9000854f5de412f20 eb3724fdf8a82f51df4e82f953e8cc4d72960a61 phytech-r0 <phystecharda@gmail.com> 1647647704 +0000	commit: emoji upd
-eb3724fdf8a82f51df4e82f953e8cc4d72960a61 81bbdcaa432535c32ae97a8a614c298d123569b8 phytech-r0 <phystecharda@gmail.com> 1647650144 +0000	commit: xset rate change
-81bbdcaa432535c32ae97a8a614c298d123569b8 4586e9b3fd90a9b89fdb0d28350f9d29d4fdbe3a phytech-r0 <phystecharda@gmail.com> 1647693516 +0000	commit: global statusline added
-4586e9b3fd90a9b89fdb0d28350f9d29d4fdbe3a cadc5d624ac4f24f7ceaeb160675f4ed9dc24dd1 phytech-r0 <phystecharda@gmail.com> 1647732602 +0000	commit: lua upd
-cadc5d624ac4f24f7ceaeb160675f4ed9dc24dd1 08cac1102caba6ffb33a66017dd4febc4a30cb93 phytech-r0 <phystecharda@gmail.com> 1647732964 +0000	commit: cmp update snip, lsp
-08cac1102caba6ffb33a66017dd4febc4a30cb93 a85b8df73eaa85c407cc095027c8a043ef019ac0 phytech-r0 <phystecharda@gmail.com> 1647770450 +0000	commit: shutdown after pid script
-a85b8df73eaa85c407cc095027c8a043ef019ac0 2064b26449fe89a71e84227ecdb4331b18c7025d phytech-r0 <phystecharda@gmail.com> 1647814854 +0000	commit: zprofile upd
-2064b26449fe89a71e84227ecdb4331b18c7025d f24a8dd6ddfbeec26adbb3850e7cae3c247a8266 phytech-r0 <phystecharda@gmail.com> 1648076250 +0000	pull: Fast-forward
-f24a8dd6ddfbeec26adbb3850e7cae3c247a8266 2208f9abe92235a8313660ba304aa48190234610 phytech-r0 <phystecharda@gmail.com> 1648076306 +0000	commit: nvim upd
-2208f9abe92235a8313660ba304aa48190234610 96827762c1bc08f10cc0e6cf4c5b934e24b35e28 phytech-r0 <phystecharda@gmail.com> 1648079473 +0000	commit: macros upd
-96827762c1bc08f10cc0e6cf4c5b934e24b35e28 18a4c85b20f3d08cf5985e97e1ba35c2578dddc8 phytech-r0 <phystecharda@gmail.com> 1648080433 +0000	commit: readme upd
-18a4c85b20f3d08cf5985e97e1ba35c2578dddc8 9d6b90bdabc1800d541ad2fac7d58e8d88b31e80 phytech-r0 <phystecharda@gmail.com> 1648343369 +0000	pull: Fast-forward
-9d6b90bdabc1800d541ad2fac7d58e8d88b31e80 b81f3900a451b39fb80ac22655f6a7d050adaaad phytech-r0 <phystecharda@gmail.com> 1648344181 +0000	commit: hex small script
-b81f3900a451b39fb80ac22655f6a7d050adaaad b81f3900a451b39fb80ac22655f6a7d050adaaad phytech-r0 <phystecharda@gmail.com> 1648515993 +0000	checkout: moving from master to myfulldots
-b81f3900a451b39fb80ac22655f6a7d050adaaad f20a9987ad316aa6a0080f1dff4e09fa7e32a6a6 phytech-r0 <phystecharda@gmail.com> 1648516007 +0000	commit: assembly scripts
-f20a9987ad316aa6a0080f1dff4e09fa7e32a6a6 23211d97d4cf2e03958ba43c6339b1ae37f2bf77 phytech-r0 <phystecharda@gmail.com> 1648518683 +0000	commit: lfs script
-23211d97d4cf2e03958ba43c6339b1ae37f2bf77 61a0d9107b5a5d5777b337a4ac61b6b4c44e172b phytech-r0 <phystecharda@gmail.com> 1648518921 +0000	commit: lfs scripts
-61a0d9107b5a5d5777b337a4ac61b6b4c44e172b e4b9206f16b1b1db0dc6e152dac969c80008c483 phytech-r0 <phystecharda@gmail.com> 1648519050 +0000	commit: assembly
-e4b9206f16b1b1db0dc6e152dac969c80008c483 29e1dc267ad76b78a38a125190ff1b9392599a3d phytech-r0 <phystecharda@gmail.com> 1648519653 +0000	commit: lf icons
-29e1dc267ad76b78a38a125190ff1b9392599a3d b81f3900a451b39fb80ac22655f6a7d050adaaad phytech-r0 <phystecharda@gmail.com> 1648519673 +0000	checkout: moving from myfulldots to master
-b81f3900a451b39fb80ac22655f6a7d050adaaad 29e1dc267ad76b78a38a125190ff1b9392599a3d phytech-r0 <phystecharda@gmail.com> 1648519680 +0000	merge myfulldots: Fast-forward
-29e1dc267ad76b78a38a125190ff1b9392599a3d 4f888bb4fb743c7efeebb45bb73310b545a5196e phytech-r0 <phystecharda@gmail.com> 1648519693 +0000	pull --rebase (start): checkout 4f888bb4fb743c7efeebb45bb73310b545a5196e
-4f888bb4fb743c7efeebb45bb73310b545a5196e ea12580dd6a30de644de372491f9738928f75e6b phytech-r0 <phystecharda@gmail.com> 1648519693 +0000	pull --rebase (pick): assembly scripts
-ea12580dd6a30de644de372491f9738928f75e6b 8532be598cb55bb055bb21f754302675f20ef739 phytech-r0 <phystecharda@gmail.com> 1648519693 +0000	pull --rebase (pick): lfs script
-8532be598cb55bb055bb21f754302675f20ef739 009f116b1df62e1513a08a362278cd3e7110045f phytech-r0 <phystecharda@gmail.com> 1648519693 +0000	pull --rebase (pick): lfs scripts
-009f116b1df62e1513a08a362278cd3e7110045f 32b153e1b7ce8b78f1f5c788f9a6f43b8ac6b9bf phytech-r0 <phystecharda@gmail.com> 1648519693 +0000	pull --rebase (pick): assembly
-32b153e1b7ce8b78f1f5c788f9a6f43b8ac6b9bf 7c64d2c8ac660e9b773009922691c488f6e04f5f phytech-r0 <phystecharda@gmail.com> 1648519693 +0000	pull --rebase (pick): lf icons
-7c64d2c8ac660e9b773009922691c488f6e04f5f 7c64d2c8ac660e9b773009922691c488f6e04f5f phytech-r0 <phystecharda@gmail.com> 1648519693 +0000	pull --rebase (finish): returning to refs/heads/master
-7c64d2c8ac660e9b773009922691c488f6e04f5f 29e1dc267ad76b78a38a125190ff1b9392599a3d phytech-r0 <phystecharda@gmail.com> 1648519709 +0000	checkout: moving from master to myfulldots
-29e1dc267ad76b78a38a125190ff1b9392599a3d 1a9c66246ab31e3dc7cc0a533bc5d55d7d89809a phytech-r0 <phystecharda@gmail.com> 1648519713 +0000	merge master: Merge made by the 'ort' strategy.
-1a9c66246ab31e3dc7cc0a533bc5d55d7d89809a 7c64d2c8ac660e9b773009922691c488f6e04f5f phytech-r0 <phystecharda@gmail.com> 1648519724 +0000	checkout: moving from myfulldots to master
-7c64d2c8ac660e9b773009922691c488f6e04f5f d4969604315c2fcac11543aceb9dfac5bd2b6a39 phytech-r0 <phystecharda@gmail.com> 1648519743 +0000	commit: reorganize
-d4969604315c2fcac11543aceb9dfac5bd2b6a39 5101bf00be07984ed81774c085265d62659b6003 phytech-r0 <phystecharda@gmail.com> 1648519818 +0000	commit: readme upd
-5101bf00be07984ed81774c085265d62659b6003 cd4b2e2c478341edd2fd635e633ff8070154aaa9 phytech-r0 <phystecharda@gmail.com> 1648520796 +0000	commit: lf icons
-cd4b2e2c478341edd2fd635e633ff8070154aaa9 4b460f889cc2afb4b48b3d820154c4b013403c16 phytech-r0 <phystecharda@gmail.com> 1648521604 +0000	commit: xprofile
-4b460f889cc2afb4b48b3d820154c4b013403c16 fdb234b1c4bb9862bec1ae6af35ab27ce002a84a phytech-r0 <phystecharda@gmail.com> 1649190577 +0000	pull: Fast-forward
-fdb234b1c4bb9862bec1ae6af35ab27ce002a84a 23bf3d49789a7f22840a67e1d84f26bcce0e3fd1 phytech-r0 <phystecharda@gmail.com> 1649190700 +0000	pull: Fast-forward
-23bf3d49789a7f22840a67e1d84f26bcce0e3fd1 7d0521e80eef93fb82c25963f6f62e184634386b phytech-r0 <phystecharda@gmail.com> 1649291257 +0000	commit: zshrc, fzf updates
-7d0521e80eef93fb82c25963f6f62e184634386b ff8e142f188879ed951700627f33113224c48a18 phytech-r0 <phystecharda@gmail.com> 1649367094 +0000	pull: Fast-forward
-ff8e142f188879ed951700627f33113224c48a18 a902c3e9dbbbd206673710097cba708c170baaa4 phytech-r0 <phystecharda@gmail.com> 1649467216 +0000	commit: picom updated for maim, xres transparency
-a902c3e9dbbbd206673710097cba708c170baaa4 739fd1baf829702c238c0379a61de8445d798fcf phytech-r0 <phystecharda@gmail.com> 1649467385 +0000	commit: picom shadow fix
-739fd1baf829702c238c0379a61de8445d798fcf 5fb75dafe25c3aac23fb48832d93c30f00e48ded phytech-r0 <phystecharda@gmail.com> 1649472592 +0000	commit: nvim gotests, picom upd
-5fb75dafe25c3aac23fb48832d93c30f00e48ded 55e84578060f9f6ca82b1693a08b349193789997 phytech-r0 <phystecharda@gmail.com> 1650231675 +0000	pull: Fast-forward
-55e84578060f9f6ca82b1693a08b349193789997 7f801f931ee22c56f470063dd90d768dcdd6d645 phytech-r0 <phystecharda@gmail.com> 1650237430 +0000	commit: nvim upd
-7f801f931ee22c56f470063dd90d768dcdd6d645 59610f4761c1e865b6a0681cc37adbce969afa7d phytech-r0 <phystecharda@gmail.com> 1650498093 +0000	pull: Fast-forward
-59610f4761c1e865b6a0681cc37adbce969afa7d 9632685dcd1cef37cd73eba439d17ea1e4b5ddd6 phytech-r0 <phystecharda@gmail.com> 1651157626 +0000	pull: Fast-forward
-9632685dcd1cef37cd73eba439d17ea1e4b5ddd6 59f4e9779c9ebdd679e27a61a86d26610b236496 phytech-r0 <phystecharda@gmail.com> 1652752206 +0000	pull: Fast-forward
-59f4e9779c9ebdd679e27a61a86d26610b236496 defbcb18871c7739a88878e1b2d044042d2d6284 phytech-r0 <phystecharda@gmail.com> 1653009984 +0000	pull: Fast-forward
-defbcb18871c7739a88878e1b2d044042d2d6284 0597a18a48cfb05f466e89b2165d10a9cdf48105 phytech-r0 <phystecharda@gmail.com> 1653065699 +0000	commit: nvim upd
-0597a18a48cfb05f466e89b2165d10a9cdf48105 634301bb4418983a85f2012e0d7a91600b1327ea phytech-r0 <phystecharda@gmail.com> 1653346631 +0000	pull: Fast-forward
-634301bb4418983a85f2012e0d7a91600b1327ea 7be39919aaaaad8592b1415305782e5f73cdfbbb phytech-r0 <phystecharda@gmail.com> 1653444323 +0000	pull: Fast-forward
-7be39919aaaaad8592b1415305782e5f73cdfbbb 7be39919aaaaad8592b1415305782e5f73cdfbbb phytech-r0 <phystecharda@gmail.com> 1653500002 +0000	reset: moving to HEAD
-7be39919aaaaad8592b1415305782e5f73cdfbbb aa1a8ae7e040ded6998c27d51796d4604c4a8ea7 phytech-r0 <phystecharda@gmail.com> 1653500003 +0000	pull: Fast-forward
-aa1a8ae7e040ded6998c27d51796d4604c4a8ea7 aa1a8ae7e040ded6998c27d51796d4604c4a8ea7 phytech-r0 <phystecharda@gmail.com> 1653617682 +0000	reset: moving to HEAD
-aa1a8ae7e040ded6998c27d51796d4604c4a8ea7 6e98ea1e56a7ddf787590c62f6b606e6903b30cb phytech-r0 <phystecharda@gmail.com> 1653617684 +0000	pull: Fast-forward
-6e98ea1e56a7ddf787590c62f6b606e6903b30cb c772f580d9cb97ca01e92da335825509113de4c1 phytech-r0 <phystecharda@gmail.com> 1654106317 +0000	pull: Fast-forward
-c772f580d9cb97ca01e92da335825509113de4c1 1e1780d9281b7de58f62326dd71c32b8963cd69d phytech-r0 <phystecharda@gmail.com> 1654106364 +0000	commit: dots
-1e1780d9281b7de58f62326dd71c32b8963cd69d 2770c6ea6e1a521502b6cf1822c22179c79fcffb phytech-r0 <phystecharda@gmail.com> 1654905339 +0000	pull: Fast-forward
-2770c6ea6e1a521502b6cf1822c22179c79fcffb e078d2be8e9c105c55937e5c87d45cbf5cd6fa03 phytech-r0 <phystecharda@gmail.com> 1654905346 +0000	commit: dots
-e078d2be8e9c105c55937e5c87d45cbf5cd6fa03 6dd8c3703b0c1452562a2878863f7342eaa63355 phytech-r0 <phystecharda@gmail.com> 1654911132 +0000	commit: dots
-6dd8c3703b0c1452562a2878863f7342eaa63355 625831503d7edb47bfe5eb184367c39dc30ebb31 phytech-r0 <phystecharda@gmail.com> 1655088808 +0000	commit: scheme
-625831503d7edb47bfe5eb184367c39dc30ebb31 1ab2df794f1104a553f8988c444af64c6289cb2d phytech-r0 <phystecharda@gmail.com> 1655140593 +0000	commit: pass_menu
+f8408ed948f39beca1cd91c9000854f5de412f20 2064b26449fe89a71e84227ecdb4331b18c7025d arda <phystecharda@gmail.com> 1647805542 +0300	pull: Fast-forward
+2064b26449fe89a71e84227ecdb4331b18c7025d df03adbd5eaaa2e1022dd2cfdff8c01aa728f03e arda <phystecharda@gmail.com> 1647861578 +0300	commit: nvim, aliasrc upd
+df03adbd5eaaa2e1022dd2cfdff8c01aa728f03e 2f706fdeca60edf0455702828bd88d33e0a664dd arda <phystecharda@gmail.com> 1647862201 +0300	commit: node.js macro
+2f706fdeca60edf0455702828bd88d33e0a664dd 510c1cf18e4b0421ac7e44b6c9ef12d1c01795a4 arda <phystecharda@gmail.com> 1647978635 +0300	commit: phyup upd
+510c1cf18e4b0421ac7e44b6c9ef12d1c01795a4 af19d09a28e7b0692fa75ce370666ced999860db arda <phystecharda@gmail.com> 1647980139 +0300	commit: nvim upd
+af19d09a28e7b0692fa75ce370666ced999860db e8536b66dfe70627ab0388935958b3a49ae7d1b6 arda <phystecharda@gmail.com> 1647980970 +0300	commit: project.lua golang support
+e8536b66dfe70627ab0388935958b3a49ae7d1b6 ce8c5e30a0b93ef4a6807e965f8d415d773ceeb6 arda <phystecharda@gmail.com> 1647984553 +0300	commit: preview upd
+ce8c5e30a0b93ef4a6807e965f8d415d773ceeb6 6b283dcd0567a11106feac34a7581a241de789e7 arda <phystecharda@gmail.com> 1647985682 +0300	commit: nvim upd
+6b283dcd0567a11106feac34a7581a241de789e7 21600119c22f958eb8820a552b49faa57abe5a0f arda <phystecharda@gmail.com> 1647986613 +0300	commit: ghost text in cmp
+21600119c22f958eb8820a552b49faa57abe5a0f ebc53681d7be2e8812b17aaac4d5263fdc4a6223 arda <phystecharda@gmail.com> 1648031300 +0300	commit: phyup script update, git remainders deleted
+ebc53681d7be2e8812b17aaac4d5263fdc4a6223 e430ed02d1eb4c1f799804109b081804c2d099d1 arda <phystecharda@gmail.com> 1648031377 +0300	commit: update script revise
+e430ed02d1eb4c1f799804109b081804c2d099d1 74015e4f6320aec2b408e94ed3b0befd45972c86 arda <phystecharda@gmail.com> 1648037999 +0300	commit: macros, autocmd upd
+74015e4f6320aec2b408e94ed3b0befd45972c86 0bea678252ef46c75f74e0eff24afb6302faad37 arda <phystecharda@gmail.com> 1648039609 +0300	commit: macros change to autocmd
+0bea678252ef46c75f74e0eff24afb6302faad37 f24a8dd6ddfbeec26adbb3850e7cae3c247a8266 arda <phystecharda@gmail.com> 1648043252 +0300	commit: snips added, friendly snips removed
+18a4c85b20f3d08cf5985e97e1ba35c2578dddc8 95e21be2ddf563c27f6c069bce7f3b5b2224b0db arda <phystecharda@gmail.com> 1648140240 +0300	pull --rebase (pick): prestart dwm programs configured
+95e21be2ddf563c27f6c069bce7f3b5b2224b0db 95e21be2ddf563c27f6c069bce7f3b5b2224b0db arda <phystecharda@gmail.com> 1648140240 +0300	pull --rebase (finish): returning to refs/heads/master
+95e21be2ddf563c27f6c069bce7f3b5b2224b0db 4a573a2b5311764bba0cd4b50fadf0ad6f9bce2f arda <phystecharda@gmail.com> 1648150288 +0300	commit: keymaps upd
+4a573a2b5311764bba0cd4b50fadf0ad6f9bce2f b099887b360d373d5caad7aae852738e9ba67c77 arda <phystecharda@gmail.com> 1648150404 +0300	commit: macro cleanup
+b099887b360d373d5caad7aae852738e9ba67c77 e824f939168ef7e1ab62a2d2fee258ea9e430838 arda <phystecharda@gmail.com> 1648156767 +0300	commit: cmp upd
+e824f939168ef7e1ab62a2d2fee258ea9e430838 d92254958792b86bc01ee0ec41ae85130689a206 arda <phystecharda@gmail.com> 1648196704 +0300	commit: key finder added, telescope
+d92254958792b86bc01ee0ec41ae85130689a206 bdb388e29b45c360f7f70d35dc76f64345462b23 arda <phystecharda@gmail.com> 1648196854 +0300	commit: json open with nvim lfrc
+bdb388e29b45c360f7f70d35dc76f64345462b23 bbdba94e912e176850b980187042b5325a7fd5ee arda <phystecharda@gmail.com> 1648197724 +0300	commit: init.vim upd
+bbdba94e912e176850b980187042b5325a7fd5ee 1b5464b2dd3b5f215c7778155d280b41bf579787 arda <phystecharda@gmail.com> 1648198585 +0300	commit: icons upd
+1b5464b2dd3b5f215c7778155d280b41bf579787 c85ebb85420482e75651ae46dcbfc3bc15d5dac6 arda <phystecharda@gmail.com> 1648213368 +0300	pull: Fast-forward
+c85ebb85420482e75651ae46dcbfc3bc15d5dac6 9d6b90bdabc1800d541ad2fac7d58e8d88b31e80 arda <phystecharda@gmail.com> 1648247475 +0300	commit: toggleterm upd
+9d6b90bdabc1800d541ad2fac7d58e8d88b31e80 b81f3900a451b39fb80ac22655f6a7d050adaaad arda <phystecharda@gmail.com> 1648416710 +0300	pull: Fast-forward
+b81f3900a451b39fb80ac22655f6a7d050adaaad 779ba1e1d5e9a16b6a75b3de18a76f24a8e1e0e6 arda <phystecharda@gmail.com> 1648420969 +0300	commit: cmp upd
+779ba1e1d5e9a16b6a75b3de18a76f24a8e1e0e6 4f888bb4fb743c7efeebb45bb73310b545a5196e arda <phystecharda@gmail.com> 1648423185 +0300	commit: script upd
+4f888bb4fb743c7efeebb45bb73310b545a5196e 4b460f889cc2afb4b48b3d820154c4b013403c16 arda <phystecharda@gmail.com> 1648575742 +0300	pull: Fast-forward
+4b460f889cc2afb4b48b3d820154c4b013403c16 00d8ce8211c93a512c212b47ae26c9cff3a6bef5 arda <phystecharda@gmail.com> 1648576985 +0300	commit: keymaps changed
+00d8ce8211c93a512c212b47ae26c9cff3a6bef5 66b4c3f6b64ae8c9bf78ddde4ab3228c11a33f83 arda <phystecharda@gmail.com> 1648629810 +0300	commit: zsh updated
+66b4c3f6b64ae8c9bf78ddde4ab3228c11a33f83 65a9d9e2c32099146493879a26200a2bc80a9b8a arda <phystecharda@gmail.com> 1648639577 +0300	commit: zsh updated
+65a9d9e2c32099146493879a26200a2bc80a9b8a 91db47b93113d06313031c882ad459ba809a3bec arda <phystecharda@gmail.com> 1648642342 +0300	commit: oh my zsh, zprofile
+91db47b93113d06313031c882ad459ba809a3bec 2285386fe3a8005680a6590a711b66cd3981d2ee arda <phystecharda@gmail.com> 1648644183 +0300	commit: omz, zprofile changes
+2285386fe3a8005680a6590a711b66cd3981d2ee 029b3312b40cf4e06037503599e01a49ec27bc02 arda <phystecharda@gmail.com> 1648645371 +0300	commit: omz, zprofile changes
+029b3312b40cf4e06037503599e01a49ec27bc02 aee6e34c57d6102442306d2431ef66b427e84ad7 arda <phystecharda@gmail.com> 1648645662 +0300	commit: omz, zprofile changes
+aee6e34c57d6102442306d2431ef66b427e84ad7 e78f7582a15de8b59528aaeba50a523066e9ef74 arda <phystecharda@gmail.com> 1648646876 +0300	commit: omz, zprofile changes
+e78f7582a15de8b59528aaeba50a523066e9ef74 e9c28fbd8fccee28ceb2c989b4d159c85f5343a7 arda <phystecharda@gmail.com> 1648647396 +0300	commit: css color plugin
+e9c28fbd8fccee28ceb2c989b4d159c85f5343a7 e4eb221bb2b5412f263dc9b5571586340ca21fd1 arda <phystecharda@gmail.com> 1648647874 +0300	commit: css color plugin
+e4eb221bb2b5412f263dc9b5571586340ca21fd1 473bb21c7e02f2da490b9a4b12c05f395a735a3d arda <phystecharda@gmail.com> 1648670722 +0300	commit: zshrc update
+473bb21c7e02f2da490b9a4b12c05f395a735a3d c9e5a680ce0fe4821289541d8e8707769ffde85d arda <phystecharda@gmail.com> 1648673930 +0300	commit: git plugin removed
+c9e5a680ce0fe4821289541d8e8707769ffde85d d54f8fdcf24507475d16fce8afb69dd9c666b27d arda <phystecharda@gmail.com> 1648674041 +0300	commit: C-t binded to new terminal
+d54f8fdcf24507475d16fce8afb69dd9c666b27d f8337bd6933e401fb377c85c26dca6ca090b9a46 arda <phystecharda@gmail.com> 1648754450 +0300	commit: zprofile, nvim macros upd
+f8337bd6933e401fb377c85c26dca6ca090b9a46 20bd7372968585f681916a53d213a8cec92bc22b arda <phystecharda@gmail.com> 1648756873 +0300	commit: C-c copy added
+20bd7372968585f681916a53d213a8cec92bc22b e136a58c861c03c99a8664981df7dba0f4a996e6 arda <phystecharda@gmail.com> 1648758014 +0300	commit: nvimtree upd
+e136a58c861c03c99a8664981df7dba0f4a996e6 8277079056190b72f8a196c16bb01f746ed80bdf arda <phystecharda@gmail.com> 1648815611 +0300	commit: makefile auto flag generate writepost
+8277079056190b72f8a196c16bb01f746ed80bdf edfacca8dab8fea4cfc29d44b7e8fbd0f748277c arda <phystecharda@gmail.com> 1648820829 +0300	commit: new plugins, keymaps, notify
+edfacca8dab8fea4cfc29d44b7e8fbd0f748277c 2e6b3a953981ab12c1bb041b91e46f5eab8db0d5 arda <phystecharda@gmail.com> 1648821469 +0300	commit: new plugins, keymaps, notify
+2e6b3a953981ab12c1bb041b91e46f5eab8db0d5 e69ccb6ac59f7432df201c7c1bd830f79b68ebc3 arda <phystecharda@gmail.com> 1648825358 +0300	commit: auto flag generator
+e69ccb6ac59f7432df201c7c1bd830f79b68ebc3 f1de76f91b5ee862ca67d80144b92f1735febbae arda <phystecharda@gmail.com> 1648854108 +0300	commit: dracula theme
+f1de76f91b5ee862ca67d80144b92f1735febbae 45bf8ac722f2121a145a3f8cab1310043dbb4ec4 arda <phystecharda@gmail.com> 1648935136 +0300	commit: theme changed to onedarker
+45bf8ac722f2121a145a3f8cab1310043dbb4ec4 1aadc0670e0c6875dacb7d28074ce177942fb424 arda <phystecharda@gmail.com> 1648938510 +0300	commit: snippets change, trailing whitespace delete
+1aadc0670e0c6875dacb7d28074ce177942fb424 e9e08705255db2f44f4dacfd74a21583c6ee4f9d arda <phystecharda@gmail.com> 1648941654 +0300	commit: luasnip tweak
+e9e08705255db2f44f4dacfd74a21583c6ee4f9d 9adac3b5bcf493534335bf20604d10c2efefa3ce arda <phystecharda@gmail.com> 1649018542 +0300	commit: zathura bind changed
+9adac3b5bcf493534335bf20604d10c2efefa3ce b99679700e21e199176b3803bb5247f76c36a1e6 arda <phystecharda@gmail.com> 1649025348 +0300	commit: makefile and run macro added
+b99679700e21e199176b3803bb5247f76c36a1e6 60a7d056a07ec080aceac49e5ffe11ff3c0eb698 arda <phystecharda@gmail.com> 1649099141 +0300	commit: lf change
+60a7d056a07ec080aceac49e5ffe11ff3c0eb698 7f8a5873fb8c3e99f42304f6ac7b8161340c54ae arda <phystecharda@gmail.com> 1649101808 +0300	commit: comment change
+7f8a5873fb8c3e99f42304f6ac7b8161340c54ae fdb234b1c4bb9862bec1ae6af35ab27ce002a84a arda <phystecharda@gmail.com> 1649102043 +0300	commit: block comment snip
+fdb234b1c4bb9862bec1ae6af35ab27ce002a84a 23bf3d49789a7f22840a67e1d84f26bcce0e3fd1 arda <phystecharda@gmail.com> 1649179889 +0300	commit: omz added
+7d0521e80eef93fb82c25963f6f62e184634386b ff8e142f188879ed951700627f33113224c48a18 arda <phystecharda@gmail.com> 1649354614 +0300	pull --rebase (pick): nvim
+ff8e142f188879ed951700627f33113224c48a18 ff8e142f188879ed951700627f33113224c48a18 arda <phystecharda@gmail.com> 1649354614 +0300	pull --rebase (finish): returning to refs/heads/master
+ff8e142f188879ed951700627f33113224c48a18 5fb75dafe25c3aac23fb48832d93c30f00e48ded arda <phystecharda@gmail.com> 1649532295 +0300	pull: Fast-forward
+5fb75dafe25c3aac23fb48832d93c30f00e48ded 9f05952667d50b3a1730351fd6634e03d19808f8 arda <phystecharda@gmail.com> 1649536252 +0300	commit: picom shadow canceled
+9f05952667d50b3a1730351fd6634e03d19808f8 ed3f28c64fc5ef961198fd635f07a0bad7a5e149 arda <phystecharda@gmail.com> 1649620646 +0300	commit: bm added, zsh changes, new exports
+ed3f28c64fc5ef961198fd635f07a0bad7a5e149 4d2896a4c93a0164954dbc5d730b6bec5b2248e8 arda <phystecharda@gmail.com> 1649622197 +0300	commit: bm added, zsh changes, new exports
+4d2896a4c93a0164954dbc5d730b6bec5b2248e8 4d2896a4c93a0164954dbc5d730b6bec5b2248e8 arda <phystecharda@gmail.com> 1649622206 +0300	reset: moving to HEAD
+4d2896a4c93a0164954dbc5d730b6bec5b2248e8 44213bc647ff55d091270292c3daea1e4bb741e7 arda <phystecharda@gmail.com> 1649622256 +0300	commit: bm added, zsh changes, new exports
+44213bc647ff55d091270292c3daea1e4bb741e7 f852b5193fbe37532c34300e4262414ba4fb74d3 arda <phystecharda@gmail.com> 1649622290 +0300	commit: bm added, zsh changes, new exports
+f852b5193fbe37532c34300e4262414ba4fb74d3 99ba560903b7dceae1b14f975f0c9676752b7fc3 arda <phystecharda@gmail.com> 1649622328 +0300	commit: bm added, zsh changes, new exports
+99ba560903b7dceae1b14f975f0c9676752b7fc3 b4d6c290cf3e514d766b49d2129b0afba1d91930 arda <phystecharda@gmail.com> 1649622417 +0300	commit: bm added, zsh changes, new exports
+b4d6c290cf3e514d766b49d2129b0afba1d91930 ff5adc52dc74d6bc44f39b4c49ca161350c6c1c5 arda <phystecharda@gmail.com> 1649628974 +0300	commit: fzf key change, nvim new mapping
+ff5adc52dc74d6bc44f39b4c49ca161350c6c1c5 776ff41b2074f62617dfd248973e32f20fb552df arda <phystecharda@gmail.com> 1649662548 +0300	commit: picom shadow canceled
+776ff41b2074f62617dfd248973e32f20fb552df b59be011a443f000d51e59b38e80791966183a1e arda <phystecharda@gmail.com> 1649673964 +0300	commit: cmp new mapping
+339d3ef9faf67d7f902e27a7a066db1aa604b785 d672db9287bcc38da04058b7cf35a06acc747f5b arda <phystecharda@gmail.com> 1649705140 +0300	commit: new snips
+d672db9287bcc38da04058b7cf35a06acc747f5b 5c26c478adc2122f84a16d24610837c2d399e6ae arda <phystecharda@gmail.com> 1649790046 +0300	commit: cmp CR map
+5c26c478adc2122f84a16d24610837c2d399e6ae 77590ab2b44aa0ed779dcf403c56af7cc1ac9e1c arda <phystecharda@gmail.com> 1649794185 +0300	commit: cmp has words bfr
+77590ab2b44aa0ed779dcf403c56af7cc1ac9e1c e6ace48b5611670fcce78e7b3132f879bbc5812a arda <phystecharda@gmail.com> 1649797725 +0300	commit: cmp has words bfr
+e6ace48b5611670fcce78e7b3132f879bbc5812a 33d911bd2b58a3e5aeeb5c36e47ba77880c8543a arda <phystecharda@gmail.com> 1649877053 +0300	commit: bookmark script
+33d911bd2b58a3e5aeeb5c36e47ba77880c8543a 3f7affb59f8e2eec5c71e01a810a2f629a6419f6 arda <phystecharda@gmail.com> 1649877110 +0300	commit: bookmark script
+3f7affb59f8e2eec5c71e01a810a2f629a6419f6 9d36cb3c25ea2bc6f7b44fda7139ba66d4af1929 arda <phystecharda@gmail.com> 1649885051 +0300	commit: cmp trying new stuff
+9d36cb3c25ea2bc6f7b44fda7139ba66d4af1929 d79166b79da49e780f3e99a773b1918bcb50069d arda <phystecharda@gmail.com> 1649885452 +0300	commit: xset r rate
+d79166b79da49e780f3e99a773b1918bcb50069d 8c1448f7fb317c4959ca86b4b17aa9cf920a3dd9 arda <phystecharda@gmail.com> 1649962123 +0300	commit: cmp change
+8c1448f7fb317c4959ca86b4b17aa9cf920a3dd9 5c6d25570a6039549f31e23aee413130ac79e8c5 arda <phystecharda@gmail.com> 1649963599 +0300	commit: styled nvim, changed new opts
+5c6d25570a6039549f31e23aee413130ac79e8c5 315d56c64c78d2bda8c009dea438c715ce003bbe arda <phystecharda@gmail.com> 1649971672 +0300	commit: configured cmp
+315d56c64c78d2bda8c009dea438c715ce003bbe 29de5152b23d0c44b0bdccf4c970818fe6408790 arda <phystecharda@gmail.com> 1650023770 +0300	commit: formated lua files
+29de5152b23d0c44b0bdccf4c970818fe6408790 ff9b22a4732904cd81e75aa7bc0bc961096979f4 arda <phystecharda@gmail.com> 1650051225 +0300	commit: cmp upd
+ff9b22a4732904cd81e75aa7bc0bc961096979f4 d00f461fb6832bea73ae2aef5000270943beb3ab arda <phystecharda@gmail.com> 1650142145 +0300	commit: cmp upd
+d00f461fb6832bea73ae2aef5000270943beb3ab b8391af5227c4d7eae2536874a82d3eca50c6e43 arda <phystecharda@gmail.com> 1650144581 +0300	commit: new snips to C
+b8391af5227c4d7eae2536874a82d3eca50c6e43 55e84578060f9f6ca82b1693a08b349193789997 arda <phystecharda@gmail.com> 1650148297 +0300	commit: new snips to C
+55e84578060f9f6ca82b1693a08b349193789997 7f801f931ee22c56f470063dd90d768dcdd6d645 arda <phystecharda@gmail.com> 1650302672 +0300	pull: Fast-forward
+7f801f931ee22c56f470063dd90d768dcdd6d645 59610f4761c1e865b6a0681cc37adbce969afa7d arda <phystecharda@gmail.com> 1650302803 +0300	commit: mans removed
+59610f4761c1e865b6a0681cc37adbce969afa7d 6e5524444ec4c8fa944a14e34f6c29645be2fd3e arda <phystecharda@gmail.com> 1650891412 +0300	commit: New c snips
+6e5524444ec4c8fa944a14e34f6c29645be2fd3e 2ce047162d53d4f734cb59613e7b90551a633f2c arda <phystecharda@gmail.com> 1651097477 +0300	commit: nvim upd
+2ce047162d53d4f734cb59613e7b90551a633f2c fdf7c2e1e6e28fcaf816d07cacd9df94d37d8c13 arda <phystecharda@gmail.com> 1651098642 +0300	commit: clangd default config added
+fdf7c2e1e6e28fcaf816d07cacd9df94d37d8c13 27d7f96722380ce7a0a25a14074f78084b786a76 arda <phystecharda@gmail.com> 1651098913 +0300	commit: clangd default config added
+27d7f96722380ce7a0a25a14074f78084b786a76 5124de7509b0fd278b31aa2767dd1ddfc5610084 arda <phystecharda@gmail.com> 1651099605 +0300	commit: compile flags changed
+5124de7509b0fd278b31aa2767dd1ddfc5610084 9632685dcd1cef37cd73eba439d17ea1e4b5ddd6 arda <phystecharda@gmail.com> 1651100859 +0300	commit: compile flags changed
+9632685dcd1cef37cd73eba439d17ea1e4b5ddd6 3661a450ce529fcc5b74f0a089756a4b394f14d5 arda <phystecharda@gmail.com> 1651430712 +0300	commit: new snips
+3661a450ce529fcc5b74f0a089756a4b394f14d5 f05dbf03f40a16d18bfd1e47585b1a28141ebc5a arda <phystecharda@gmail.com> 1651791073 +0300	commit: snip C fix
+f05dbf03f40a16d18bfd1e47585b1a28141ebc5a f05dbf03f40a16d18bfd1e47585b1a28141ebc5a arda <phystecharda@gmail.com> 1651791086 +0300	reset: moving to HEAD
+f05dbf03f40a16d18bfd1e47585b1a28141ebc5a 37688758f2b31e4631f3e5ef8446570fdd41aa6e arda <phystecharda@gmail.com> 1651791089 +0300	pull --rebase (start): checkout 37688758f2b31e4631f3e5ef8446570fdd41aa6e
+37688758f2b31e4631f3e5ef8446570fdd41aa6e 0e8c22e5048792952cc31ec89a2d8bbf83898177 arda <phystecharda@gmail.com> 1651791089 +0300	pull --rebase (pick): snip C fix
+0e8c22e5048792952cc31ec89a2d8bbf83898177 0e8c22e5048792952cc31ec89a2d8bbf83898177 arda <phystecharda@gmail.com> 1651791089 +0300	pull --rebase (finish): returning to refs/heads/master
+0e8c22e5048792952cc31ec89a2d8bbf83898177 86a060ec169835ed37e4ad8105e1c4620ed16833 arda <phystecharda@gmail.com> 1652040353 +0300	commit: scripts upd
+86a060ec169835ed37e4ad8105e1c4620ed16833 41245092e369ce3834b10317d629ed30208a3f4b arda <phystecharda@gmail.com> 1652040373 +0300	commit: nvim bugfix
+41245092e369ce3834b10317d629ed30208a3f4b 4ab4dd804907d7f89d2ddbef916e8d915f4b66e8 arda <phystecharda@gmail.com> 1652210329 +0300	commit: macros added
+4ab4dd804907d7f89d2ddbef916e8d915f4b66e8 88647a516132f7e2e6c9ef24448c0d3a8f88d2ed arda <phystecharda@gmail.com> 1652211762 +0300	commit: compile flags changed
+88647a516132f7e2e6c9ef24448c0d3a8f88d2ed 1f97891d8bec38ed472cbd632a07bb26b5178d85 arda <phystecharda@gmail.com> 1652255052 +0300	commit: ls aliased to exa
+1f97891d8bec38ed472cbd632a07bb26b5178d85 5000fe3bb648c1b90ceb12195dc332e0acf5fbcc arda <phystecharda@gmail.com> 1652266417 +0300	commit: enumeration macro
+5000fe3bb648c1b90ceb12195dc332e0acf5fbcc c0de1e02d22d55f977b9210f59eacc2f7eb36092 arda <phystecharda@gmail.com> 1652302699 +0300	commit: compile flags changed
+c0de1e02d22d55f977b9210f59eacc2f7eb36092 473b09f6486759ae3b7ec737797a96185f362a45 arda <phystecharda@gmail.com> 1652376998 +0300	commit: scripts upd
+473b09f6486759ae3b7ec737797a96185f362a45 b2d31e7d3982e0949479ce388897ee9b27f17b40 arda <phystecharda@gmail.com> 1652388429 +0300	commit: scripts upd
+b2d31e7d3982e0949479ce388897ee9b27f17b40 3ea014d0f4eff7b758ba27332271a1f91fd22dba arda <phystecharda@gmail.com> 1652426101 +0300	commit: folds added
+3ea014d0f4eff7b758ba27332271a1f91fd22dba 9aef95ab820fe514104073eedd2fb31e368da1cf arda <phystecharda@gmail.com> 1652427841 +0300	commit: scripts updated
+9aef95ab820fe514104073eedd2fb31e368da1cf 960a02c068a9a54ccfdec596f4a3f944b74986ec arda <phystecharda@gmail.com> 1652429110 +0300	commit: C snips fixed
+960a02c068a9a54ccfdec596f4a3f944b74986ec 8625083d16c786d888dad2a01f4a7ec717ef276c arda <phystecharda@gmail.com> 1652646127 +0300	commit: new scripts dir
+8625083d16c786d888dad2a01f4a7ec717ef276c ac9a8c4193f9deea1370d28411d4afd0c7623b99 arda <phystecharda@gmail.com> 1652646447 +0300	commit: new scripts added
+ac9a8c4193f9deea1370d28411d4afd0c7623b99 510ce7d5b5b4065e24c6d328884970fd192b81f8 arda <phystecharda@gmail.com> 1652650178 +0300	commit: nvim update
+510ce7d5b5b4065e24c6d328884970fd192b81f8 21ddfb9dd4e9cedafa6064f677d347a59068d762 arda <phystecharda@gmail.com> 1652706246 +0300	commit: scripts update
+21ddfb9dd4e9cedafa6064f677d347a59068d762 93248aee5e5ab2cc162af445f7a2c89ed83f1598 arda <phystecharda@gmail.com> 1652708841 +0300	commit: scripts update
+93248aee5e5ab2cc162af445f7a2c89ed83f1598 9c42617363917e1061ce013ec1cbc042327cac6d arda <phystecharda@gmail.com> 1652710383 +0300	commit: scripts update
+9c42617363917e1061ce013ec1cbc042327cac6d 59f4e9779c9ebdd679e27a61a86d26610b236496 arda <phystecharda@gmail.com> 1652712570 +0300	commit: scripts update
+59f4e9779c9ebdd679e27a61a86d26610b236496 800c214e1b311afe3c2f10fc36df589d929978ef arda <phystecharda@gmail.com> 1652811559 +0300	commit: scripts and blocks cfg
+800c214e1b311afe3c2f10fc36df589d929978ef 1ef36af96222c28904bf6bbcc0073a89e1da95db arda <phystecharda@gmail.com> 1652827140 +0300	commit: small fix on trailing lines
+1ef36af96222c28904bf6bbcc0073a89e1da95db 1f94143e70a206516c603404349a6ac5d13d388e Arda Atci <arda@phytech.io> 1652892290 +0300	commit: cmp fixed behaviour
+1f94143e70a206516c603404349a6ac5d13d388e 9fd29475c512631926add729491b565a5a8e26f6 Arda Atci <arda@phytech.io> 1652987494 +0300	commit: sb upd
+9fd29475c512631926add729491b565a5a8e26f6 defbcb18871c7739a88878e1b2d044042d2d6284 Arda Atci <arda@phytech.io> 1652997153 +0300	commit: battery upd
+defbcb18871c7739a88878e1b2d044042d2d6284 ff35081b60806c6cc04557ec7ed7e45714970e19 Arda Atci <arda@phytech.io> 1653167334 +0300	commit: nvim scheme chg
+ff35081b60806c6cc04557ec7ed7e45714970e19 0597a18a48cfb05f466e89b2165d10a9cdf48105 Arda Atci <arda@phytech.io> 1653167343 +0300	pull --rebase (start): checkout 0597a18a48cfb05f466e89b2165d10a9cdf48105
+0597a18a48cfb05f466e89b2165d10a9cdf48105 634301bb4418983a85f2012e0d7a91600b1327ea Arda Atci <arda@phytech.io> 1653167343 +0300	pull --rebase (pick): nvim scheme chg
+634301bb4418983a85f2012e0d7a91600b1327ea 634301bb4418983a85f2012e0d7a91600b1327ea Arda Atci <arda@phytech.io> 1653167343 +0300	pull --rebase (finish): returning to refs/heads/master
+634301bb4418983a85f2012e0d7a91600b1327ea 7be39919aaaaad8592b1415305782e5f73cdfbbb Arda Atci <arda@phytech.io> 1653426532 +0300	commit: dots upd
+7be39919aaaaad8592b1415305782e5f73cdfbbb aa1a8ae7e040ded6998c27d51796d4604c4a8ea7 Arda Atci <arda@phytech.io> 1653465126 +0300	commit: bindkey macro
+aa1a8ae7e040ded6998c27d51796d4604c4a8ea7 1fa41be3db1b62eb5360e6006e667ae44039a934 Arda Atci <arda@phytech.io> 1653520069 +0300	commit: bindkeysrc
+1fa41be3db1b62eb5360e6006e667ae44039a934 6e98ea1e56a7ddf787590c62f6b606e6903b30cb Arda Atci <arda@phytech.io> 1653593620 +0300	commit: zsh cfg
+6e98ea1e56a7ddf787590c62f6b606e6903b30cb b4cc9efea9c1ee3ea04c85a9694e170dde00b625 Arda Atci <arda@phytech.io> 1653595805 +0300	commit: zsh cfg
+b4cc9efea9c1ee3ea04c85a9694e170dde00b625 ac8b794166b3cd7c66ef52cc3440c29fd3f6069f Arda Atci <arda@phytech.io> 1653634193 +0300	commit: zsh cfg
+ac8b794166b3cd7c66ef52cc3440c29fd3f6069f 36c6a1e58a6ae6e01c89d587dfb0290b1b69b0bf Arda Atci <arda@phytech.io> 1653636538 +0300	commit: gtk theme
+36c6a1e58a6ae6e01c89d587dfb0290b1b69b0bf 7cb3934b1651cfada18ff719c09241e0c0069334 Arda Atci <arda@phytech.io> 1653648313 +0300	commit: keymap chg
+7cb3934b1651cfada18ff719c09241e0c0069334 71c706002542269bf83ae5760ffa5d3a91810f51 Arda Atci <arda@phytech.io> 1653652519 +0300	commit: goimport disabled in null-ls
+71c706002542269bf83ae5760ffa5d3a91810f51 6a109703b139c330afaad0937ecc7dbef2473f2f Arda Atci <arda@phytech.io> 1653685944 +0300	commit: nvim
+6a109703b139c330afaad0937ecc7dbef2473f2f 0b4228e8ab3f5128224d3bf4de0a4892482d1e2e Arda Atci <arda@phytech.io> 1653772611 +0300	commit: keys backup
+0b4228e8ab3f5128224d3bf4de0a4892482d1e2e 97233647a0644422477ef4a714ffcb426e3886b2 Arda Atci <arda@phytech.io> 1653773145 +0300	commit: omz update
+97233647a0644422477ef4a714ffcb426e3886b2 53ec6f9937fea7937ba2b6d924376e966fb5de90 Arda Atci <arda@phytech.io> 1653773937 +0300	commit: nvim save fold and redirect addedg
+53ec6f9937fea7937ba2b6d924376e966fb5de90 87b61f1b66d089fe26597a5cba5b4bbae77370d4 Arda Atci <arda@phytech.io> 1653780258 +0300	commit: folding fixed
+87b61f1b66d089fe26597a5cba5b4bbae77370d4 c772f580d9cb97ca01e92da335825509113de4c1 Arda Atci <arda@phytech.io> 1654021645 +0300	commit: nvim plugin fix
+c772f580d9cb97ca01e92da335825509113de4c1 ce421051982ceb4e22b2224f78784e3f032d65b2 Arda Atci <arda@phytech.io> 1654210801 +0300	commit: nvim ts new cfg
+ce421051982ceb4e22b2224f78784e3f032d65b2 1e1780d9281b7de58f62326dd71c32b8963cd69d Arda Atci <arda@phytech.io> 1654210822 +0300	pull --rebase (start): checkout 1e1780d9281b7de58f62326dd71c32b8963cd69d
+1e1780d9281b7de58f62326dd71c32b8963cd69d b341c9a449850a394e6fb4d69c382aa241f3a430 Arda Atci <arda@phytech.io> 1654210822 +0300	pull --rebase (pick): nvim ts new cfg
+b341c9a449850a394e6fb4d69c382aa241f3a430 b341c9a449850a394e6fb4d69c382aa241f3a430 Arda Atci <arda@phytech.io> 1654210822 +0300	pull --rebase (finish): returning to refs/heads/master
+b341c9a449850a394e6fb4d69c382aa241f3a430 8942e33f3fb28b8e91b2c710318d7d4c8d34bd9d Arda Atci <arda@phytech.io> 1654367752 +0300	commit: nvim new plugin
+8942e33f3fb28b8e91b2c710318d7d4c8d34bd9d 70e4cef0d370a72cd9680541b752e59cf2b78ccc Arda Atci <arda@phytech.io> 1654374741 +0300	commit: passmenu added
+70e4cef0d370a72cd9680541b752e59cf2b78ccc 033ccd2666a979b0d31f4af4c522c0f0dbe46541 Arda Atci <arda@phytech.io> 1654456451 +0300	commit: new colorscheme
+033ccd2666a979b0d31f4af4c522c0f0dbe46541 881a5e4b02725c23384fef43e79f6cabaa0496fb Arda Atci <arda@phytech.io> 1654460371 +0300	commit: new plug
+881a5e4b02725c23384fef43e79f6cabaa0496fb cfd245231b00446a88bc7913870267c59ea3985b Arda Atci <arda@phytech.io> 1654467510 +0300	commit: new plug
+cfd245231b00446a88bc7913870267c59ea3985b 2770c6ea6e1a521502b6cf1822c22179c79fcffb Arda Atci <arda@phytech.io> 1654627157 +0300	commit: snip upd
+2770c6ea6e1a521502b6cf1822c22179c79fcffb 6dd8c3703b0c1452562a2878863f7342eaa63355 Arda Atci <arda@phytech.io> 1654966399 +0300	pull: Fast-forward
+6dd8c3703b0c1452562a2878863f7342eaa63355 1ab2df794f1104a553f8988c444af64c6289cb2d Arda Atci <arda@phytech.io> 1655156602 +0300	pull: Fast-forward
+1ab2df794f1104a553f8988c444af64c6289cb2d 03a857df869f90a26ee16ca431d57f20cf973bf0 Arda Atci <arda@phytech.io> 1655277602 +0300	commit: qt5ct
+03a857df869f90a26ee16ca431d57f20cf973bf0 0809fb155ecb1cd40c2a3ee5b74eab127aec2c51 Arda Atci <arda@phytech.io> 1655465508 +0300	commit: scripts to changed
+0809fb155ecb1cd40c2a3ee5b74eab127aec2c51 5b26145463e78b05d0013b00313dafd6b83e554b Arda Atci <arda@phytech.io> 1655466483 +0300	commit: script name change
+5b26145463e78b05d0013b00313dafd6b83e554b 180a6b566d66ef3ae40a12d4490bfa291a387fbb Arda Atci <arda@phytech.io> 1655675619 +0300	commit: xserver changes
+180a6b566d66ef3ae40a12d4490bfa291a387fbb 69ee42fb5d7b058e81df1cd5fbd628d73a62a395 Arda Atci <arda@phytech.io> 1655677711 +0300	commit: xserver changes
+69ee42fb5d7b058e81df1cd5fbd628d73a62a395 4e9d9752f2198b02ef791eceb9ed2364b221c673 Arda Atci <arda@phytech.io> 1655747321 +0300	commit: xserver changes
+4e9d9752f2198b02ef791eceb9ed2364b221c673 c44269f29690f49143b704307e5365f212943247 Arda Atci <arda@phytech.io> 1655762129 +0300	commit: qt5ct
+c44269f29690f49143b704307e5365f212943247 97906fc4d089e5df2d4ffa573e995c11e7d0929e Arda Atci <arda@phytech.io> 1656022986 +0300	commit: vm check for picom
