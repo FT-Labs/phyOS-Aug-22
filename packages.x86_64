@@ -173,7 +173,6 @@ openresolv
 qemu-guest-agent
 
 # xorg - compositor
-picom
 qt5ct
 xcape
 xclip
@@ -236,6 +235,7 @@ phyOS-sysconf
 phyOS-cala-config
 phyOS-calamares
 phyOS-systemd-services
+picom-animations-git
 
 libxft-bgra
 cointop
@@ -248,7 +248,7 @@ ttf-linux-libertine
 unclutter
 
 # lf with image support
-lf
+lf-png
 ueberzug
 ffmpegthumbnailer
 imagemagick
