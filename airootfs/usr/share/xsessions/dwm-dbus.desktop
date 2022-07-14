@@ -2,5 +2,5 @@
 Encoding=UTF-8
 Name=dwm-dbus
 Comment=This session starts dwm
-Exec=dbus-launch dwm
+Exec=/usr/local/bin/dwm-dbus
 Type=Xsession

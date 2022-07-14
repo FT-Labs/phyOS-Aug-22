@@ -3,7 +3,7 @@
 
 iso_name="phyOS"
 iso_label="phyOS_$(date +%Y%m)"
-iso_publisher="PhyTech <arda@phytech.io>"
+iso_publisher="PhyTech <arda@ftlabs.tech>"
 iso_application="PhyOS Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
@@ -22,4 +22,5 @@ file_permissions=(
   ["/root/.automated_script.sh"]="0:0:755"
   ["/etc/skel/"]="0:0:744"
   ["/etc/skel/.local/bin/"]="0:0:755"
+  ["/usr/local/bin/dwm-dbus"]="0:0:755"
 )

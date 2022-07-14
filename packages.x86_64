@@ -68,7 +68,6 @@ light
 linux
 linux-atm
 linux-firmware
-livecd-sounds
 lsscsi
 lvm2
 lsb-release
@@ -105,14 +104,12 @@ openvpn
 partclone
 parted
 partimage
-pipewire
 ppp
 pptpclient
 polkit
 polkit-gnome
 powerline
 python-virtualenv
-pulsemixer
 reiserfsprogs
 reflector
 ripgrep
@@ -150,7 +147,7 @@ zip
 unzip
 zsh
 zsh-completions
-zsh-fast-syntax-highlighting
+zsh-fast-syntax-highlighting-git
 
 # utils
 ungoogled-chromium
@@ -184,9 +181,10 @@ xorg-xinit
 xorg-xmessage
 xsel
 xwallpaper
-xf86-video-intel
 
 chaotic-keyring
+chaotic-mirrorlist
+
 # sound
 alsa-firmware
 alsa-plugins
@@ -194,8 +192,13 @@ alsa-lib
 alsa-utils
 pavucontrol
 pamixer
-pulseaudio
-pulseaudio-alsa
+pipewire
+pipewire-alsa
+pulsemixer
+
+# Flickerless boot
+plymouth-git
+phyOS-plymouth-cyanide-theme
 
 # login manager
 sddm
@@ -204,6 +207,10 @@ phyOS-sddm-default
 
 #encryption
 cryptsetup
+
+# Input
+xorg-xinput
+xf86-input-libinput
 
 #bluetooth
 bluez
@@ -222,6 +229,7 @@ nvidia-settings
 s-tui
 
 # main os packages
+phyOS-keyring
 phyOS-base-themes
 phyOS-fonts
 phyOS-sysinstall
@@ -237,20 +245,13 @@ phyOS-calamares
 phyOS-systemd-services
 picom-animations-git
 
-libxft-bgra
 cointop
+lf-png
 libnotify
+libxft-bgra
 rofi
 ttf-dejavu
 ttf-jetbrains-mono
 ttf-joypixels
 ttf-linux-libertine
 unclutter
-
-# lf with image support
-lf-png
-ueberzug
-ffmpegthumbnailer
-imagemagick
-poppler
-wkhtmltopdf
