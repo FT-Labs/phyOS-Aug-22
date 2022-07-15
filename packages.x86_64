@@ -182,9 +182,6 @@ xorg-xmessage
 xsel
 xwallpaper
 
-chaotic-keyring
-chaotic-mirrorlist
-
 # sound
 alsa-firmware
 alsa-plugins
@@ -230,6 +227,7 @@ s-tui
 
 # main os packages
 phyOS-keyring
+phyOS-mirrorlist
 phyOS-base-themes
 phyOS-fonts
 phyOS-sysinstall
