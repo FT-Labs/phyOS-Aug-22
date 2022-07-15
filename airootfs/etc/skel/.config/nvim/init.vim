@@ -1,6 +1,6 @@
 filetype plugin on
 
-lua require ("init")
+" lua require ("init")
 
 " Functions
 function DateAuthor()
