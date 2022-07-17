@@ -225,26 +225,32 @@ nvidia-utils
 nvidia-settings
 s-tui
 
-# main os packages
-phyOS-keyring
-phyOS-mirrorlist
-phyOS-base-themes
-phyOS-fonts
-phyOS-sysinstall
-phyOS-dmenu
-phyOS-sddm-default
-phyOS-xmenu
-phyOS-dunst
-phyOS-st
-phyOS-dwm
-phyOS-sysconf
+# Calamares
 phyOS-cala-config
 phyOS-calamares
-phyOS-systemd-services
+
+# Keyring and list
+phyOS-keyring
+phyOS-mirrorlist
+# Base phyOS packages
 picom-animations-git
+phyOS-base-themes
+phyOS-fonts
+phyOS-dmenu
+phyOS-dunst
+phyOS-dwm
+phyOS-sddm-default
+phyOS-st
+phyOS-sysconf
+phyOS-sysinstall
+phyOS-systemd-services
+phyOS-system-scripts
+phyOS-xmenu
 
 cointop
 lf-png
+i3lock-color
+betterlockscreen
 libnotify
 libxft-bgra
 rofi
