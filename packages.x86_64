@@ -167,7 +167,6 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 openresolv
-qemu-guest-agent
 
 # xorg - compositor
 qt5ct
@@ -199,11 +198,11 @@ phyOS-plymouth-cyanide-theme
 
 # login manager
 sddm
-# default theme
-phyOS-sddm-default
+phyOS-sddm-simplicity-theme
 
 #encryption
 cryptsetup
+pass
 
 # Input
 xorg-xinput
@@ -239,7 +238,6 @@ phyOS-fonts
 phyOS-dmenu
 phyOS-dunst
 phyOS-dwm
-phyOS-sddm-default
 phyOS-st
 phyOS-sysconf
 phyOS-sysinstall
