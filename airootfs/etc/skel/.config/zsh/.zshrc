@@ -107,3 +107,14 @@ ZSH_AUTOSUGGEST_STRATEGY=(history completion)
 #ZSH_AUTOSUGGEST_USE_ASYNC=true
 
 powerline-daemon -q
+
+echo "##########################################################"
+echo "### After the installation please update your dotfiles ###"
+echo "phyup dots --force"
+echo "To set your resolution, Win+F5"
+echo "To choose sddm themes: pOS-sddm-choose-theme"
+echo "To choose grub themes: pOS-grub-choose-theme"
+echo "To make your own statusbar: pOS-make-bar"
+echo "Current grub themes: phyOS-grub-xenlism-theme phyOS-grub-darkmatter-theme"
+echo "Current sddm themes: phyOS-sddm-simplicity-theme phyOS-sddm-ittu-theme #ittu is animated gif theme, note that it need plasma dependency"
+echo "##########################################################"

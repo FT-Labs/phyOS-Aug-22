@@ -22,7 +22,6 @@ dex
 dhclient
 dhcpcd
 diffutils
-dolphin
 dmraid
 dnsmasq
 dosfstools
@@ -49,6 +48,7 @@ gptfdisk
 grml-zsh-config
 harfbuzz
 hdparm
+hyperv
 hwinfo
 ipw2100-fw
 ipw2200-fw
@@ -68,6 +68,8 @@ light
 linux
 linux-atm
 linux-firmware
+linux-firmware-qlogic
+linux-firmware-marvell
 lsscsi
 lvm2
 lsb-release
@@ -101,6 +103,7 @@ nvme-cli
 openconnect
 openssh
 openvpn
+papirus-icon-theme
 partclone
 parted
 partimage
@@ -123,11 +126,10 @@ squashfs-tools
 sudo
 syslinux
 systemd
-systemd-resolvconf
 tcpdump
+thunar
 testdisk
 udftools
-unzip
 usb_modeswitch
 usbmuxd
 usbutils
@@ -161,7 +163,6 @@ nss-mdns
 mobile-broadband-provider-info
 modemmanager
 networkmanager
-network-manager-applet
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
@@ -204,15 +205,28 @@ phyOS-sddm-simplicity-theme
 cryptsetup
 pass
 
-# Input
-xorg-xinput
+# Gpu drivers
+xf86-input-elographics
+xf86-input-evdev
 xf86-input-libinput
+xf86-input-vmmouse
+xf86-input-void
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-fbdev
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-openchrome
+xf86-video-vesa
+xf86-video-vmware
+mesa
+mesa-utils
 
 #bluetooth
+blueberry
 bluez
 bluez-libs
 bluez-utils
-pulseaudio-bluetooth
 
 # installer
 grub
@@ -257,3 +271,4 @@ ttf-jetbrains-mono
 ttf-joypixels
 ttf-linux-libertine
 unclutter
+wmctrl
