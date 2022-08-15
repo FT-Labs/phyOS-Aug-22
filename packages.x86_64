@@ -246,7 +246,7 @@ phyOS-calamares
 phyOS-keyring
 phyOS-mirrorlist
 # Base phyOS packages
-picom-animations-git
+phyOS-picom
 phyOS-base-themes
 phyOS-fonts
 phyOS-dmenu
