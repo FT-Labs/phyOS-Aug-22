@@ -169,7 +169,7 @@ networkmanager-pptp
 networkmanager-vpnc
 openresolv
 
-# xorg - compositor
+# xorg
 qt5ct
 xcape
 xclip
@@ -181,6 +181,7 @@ xorg-xinit
 xorg-xmessage
 xsel
 xwallpaper
+yay
 
 # sound
 alsa-firmware
@@ -193,9 +194,9 @@ pipewire
 pipewire-alsa
 pulsemixer
 
-# Flickerless boot
-plymouth-git
-phyOS-plymouth-cyanide-theme
+# Flickerless boot (plymouth is optional now, have lots of issues)
+# plymouth-git
+# phyOS-plymouth-cyanide-theme
 
 # login manager
 sddm
@@ -214,13 +215,11 @@ xf86-input-void
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-fbdev
-xf86-video-intel
 xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vesa
 xf86-video-vmware
 mesa
-mesa-utils
 
 #bluetooth
 blueberry
@@ -233,9 +232,10 @@ grub
 os-prober
 
 # nvidia firmware
-nvidia
+nvidia-dkms
 nvidia-utils
 nvidia-settings
+mesa-utils
 s-tui
 
 # Calamares

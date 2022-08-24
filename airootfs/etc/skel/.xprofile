@@ -1,27 +1,29 @@
 #!/bin/sh
 
-if [[ ! -z $isvm ]]; then
+if [ ! -f "$HOME/.xsync" ] && (( $(xrandr -q | grep -w connected | wc -l) == 1 )); then
     mon=$(xrandr -q | grep -w connected | awk '{print $1}')
-    xrandr --output $mon --auto
-    res=$(xrandr | sed "s/x/\ /g" | grep \* | awk '{print $1}')
-    scale=$(bc -l <<< "2560/$res")
-    xrandr --output $mon --scale $scale
+    res_x=$(xrandr | sed "s/x/\ /g" | grep \* | awk '{print $1}')
+    res_y=$(xrandr | sed "s/x/\ /g" | grep \* | awk '{print $2}')
+    if (( $res_x < 1920)); then
+        scale_x=$(bc -l <<< "1920/$res_x")
+        scale_y=$(bc -l <<< "1080/$res_y")
+        xrandr --output $mon --scale "${scale_x}x${scale_y}"
+    else
+        xrandr --auto
+    fi
+else
+    $HOME/.xsync
+    [ $? -ne 0 ] && xrandr --auto
 fi
 
 xrdb ~/.config/Xresources
-pOS-setbg &			# set the background
-# Below is disabled in usb installer for performance issues on older backends
-# isvm=$( hwinfo | grep Virtual )
-# if [[ -z $isvm ]]; then
-#     picom --experimental-backends --backend glx &		# picom for transparency and rounded corners
-# else
-#     picom &
-# fi
-# pOS-conky &
+pOS-setbg &			# set the background, use this script to set your own background
+# Below sources configuration file to fetch picom
+pOS-compositor & # Run picom as default compositor (Enable experimental backends from ~/.config/phyos/phyos.conf)
+pOS-conky &
 dunst &			# dunst for notifications
 pOS-remaps &		# run the remaps script, switching caps/esc and more; check it for more info
-xset r rate 250 40 &	# Speed xrate up
 [[ -f /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 ]] && /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+xset r rate 250 40 &	# Speed xrate up
 unclutter &		# Remove mouse when idle
 dex -a & # Start xdg autostart
-(sleep 5 && notify-send "Animations and picom is disabled in liveiso, Caps+T to toggle") &

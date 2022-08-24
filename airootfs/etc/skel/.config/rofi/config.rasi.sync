@@ -3,7 +3,7 @@ configuration{
     lines: 5;
     font: "Sans Serif 16";
     show-icons: true;
-    icon-theme: "Papirus-Dark";
+    icon-theme: "ICON_THEME";
     terminal: "st";
     drun-display-format: "{name}";
     location: 0;
@@ -20,6 +20,7 @@ configuration{
 	kb-remove-char-back: "BackSpace,Shift+BackSpace";
 	kb-mode-complete: "";
 	kb-accept-entry: "Return,KP_Enter";
+    kb-element-next: "";
 	kb-mode-next: "Tab";
 	kb-row-tab: "";
 	kb-remove-to-eol: "";

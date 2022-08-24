@@ -19,7 +19,7 @@ bindkey -M menuselect 'l' vi-forward-char
 bindkey -M menuselect 'j' vi-down-line-or-history
 bindkey -v '^?' backward-delete-char
 
-# Use lf to switch directories and bind it to ctrl-o
+# Use lf to switch directories and bind it to ctrl-r
 lfcd () {
     tmp="$(mktemp)"
     lf -last-dir-path="$tmp" "$@"
@@ -50,7 +50,7 @@ esac
 
 #Set bookmarks dir
 # To add any bookmark, use command below without quotes:
-# bm 'bookmarkdir' '@bookmarkname'
+# bm 'bookmarkdir' '@bookmarkname' OR bm @bookmarkname to bookmark current directory
 [[ -d "$ZSHCFG/bookmarks" ]] && export CDPATH=".:$ZSHCFG/bookmarks:/" \
 	&& alias jmp="cd -P"
 
@@ -94,6 +94,10 @@ source /usr/share/fzf/completion.zsh
 bindkey -v
 export KEYTIMEOUT=1
 export GPG_TTY=$(tty)
+if [ ! -z $BM_DIR ]; then
+    cd -P $BM_DIR &&
+    export BM_DIR=""
+fi
 
 # Edit line in vim with ctrl-e:
 autoload edit-command-line; zle -N edit-command-line
@@ -104,17 +108,14 @@ bindkey '^e' edit-command-line
 bindkey '^[[Z' autosuggest-accept   # shift tab to accept ghost text
 ZSH_AUTOSUGGEST_CLEAR_WIDGETS+=(buffer-empty bracketed-paste accept-line push-line-or-edit)
 ZSH_AUTOSUGGEST_STRATEGY=(history completion)
-#ZSH_AUTOSUGGEST_USE_ASYNC=true
+ZSH_AUTOSUGGEST_USE_ASYNC=true
+
+export LESS_TERMCAP_mb=$(tput bold; tput setaf 39)
+export LESS_TERMCAP_md=$(tput bold; tput setaf 45)
+export LESS_TERMCAP_me=$(tput sgr0)
+export LESS_TERMCAP_so=$(tput setaf 75)
+export LESS_TERMCAP_se=$(tput setaf 114)
+export LESS_TERMCAP_us=$(tput setaf 114)
+export LESS_TERMCAP_ue=$(tput setaf 114)
 
 powerline-daemon -q
-
-echo "##########################################################"
-echo "### After the installation please update your dotfiles ###"
-echo "phyup dots --force"
-echo "To set your resolution, Win+F5"
-echo "To choose sddm themes: pOS-sddm-choose-theme"
-echo "To choose grub themes: pOS-grub-choose-theme"
-echo "To make your own statusbar: pOS-make-bar"
-echo "Current grub themes: phyOS-grub-xenlism-theme phyOS-grub-darkmatter-theme"
-echo "Current sddm themes: phyOS-sddm-simplicity-theme phyOS-sddm-ittu-theme #ittu is animated gif theme, note that it need plasma dependency"
-echo "##########################################################"
