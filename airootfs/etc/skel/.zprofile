@@ -40,3 +40,5 @@ export SUDO_ASKPASS="$(which pOS-pass)" # Ask password with dmenu if any command
 [[ ! -f "$HOME/.config/phyos/phyos.conf" ]]  && cp "$HOME/.config/phyos/phyos.conf.default" "$HOME/.config/phyos/phyos.conf"
 # Set catppuccin colorscheme if not existent in path
 [[ ! -f "$HOME/.config/rofi/colors.rasi" ]] && ln -sf /usr/share/phyos/config/rofi/colors/catppuccin.rasi "$HOME/.config/rofi/colors.rasi"
+
+startx

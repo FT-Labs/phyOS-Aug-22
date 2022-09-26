@@ -11,4 +11,4 @@
 
 . ~/.xprofile
 
-ssh-agent dwm
+dbus-launch dwm

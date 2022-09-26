@@ -232,7 +232,7 @@ grub
 os-prober
 
 # nvidia firmware
-nvidia-dkms
+nvidia
 nvidia-utils
 nvidia-settings
 mesa-utils
@@ -251,13 +251,15 @@ phyOS-base-themes
 phyOS-fonts
 phyOS-dmenu
 phyOS-dunst
-phyOS-dwm
+phyOS-dwm-beta
+pdwm
 phyOS-st
 phyOS-sysconf
 phyOS-sysinstall
 phyOS-systemd-services
 phyOS-system-scripts
 phyOS-xmenu
+physettings
 
 cointop
 lf-png

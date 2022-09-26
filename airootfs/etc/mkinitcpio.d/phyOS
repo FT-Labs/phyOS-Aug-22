@@ -1,6 +1,6 @@
 # mkinitcpio preset file for the 'linux' package on archiso
 
-PRESETS=('default' 'nokms' 'fallback')
+PRESETS=('default' 'fallback')
 
 ALL_kver='/boot/vmlinuz-linux'
 ALL_config='/etc/mkinitcpio.conf'
@@ -9,9 +9,6 @@ default_config="/etc/mkinitcpio.conf"
 default_image="/boot/initramfs-linux.img"
 #default_options=""
 
-nokms_config="/etc/mkinitcpio-nokms.conf"
-nokms_image="/boot/initramfs-linux-nokms.img"
-
-fallback_config="/etc/mkinitcpio-nokms.conf"
+#fallback_config="/etc/mkinitcpio-nokms.conf"
 fallback_image="/boot/initramfs-linux-fallback.img"
 fallback_options="-S autodetect"
