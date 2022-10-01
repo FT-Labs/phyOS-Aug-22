@@ -253,7 +253,7 @@ phyOS-fonts
 phyOS-dmenu
 phyOS-dunst
 pdwm
-dwmc
+pdwmc
 phyOS-st
 phyOS-sysconf
 phyOS-sysinstall
@@ -267,7 +267,7 @@ lf-png
 i3lock-color
 betterlockscreen
 libnotify
-libxft-bgra
+libxft
 rofi
 ttf-dejavu
 ttf-jetbrains-mono
