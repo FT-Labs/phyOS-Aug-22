@@ -163,6 +163,7 @@ nss-mdns
 mobile-broadband-provider-info
 modemmanager
 networkmanager
+networkmanager-applet
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
@@ -251,8 +252,8 @@ phyOS-base-themes
 phyOS-fonts
 phyOS-dmenu
 phyOS-dunst
-phyOS-dwm-beta
 pdwm
+dwmc
 phyOS-st
 phyOS-sysconf
 phyOS-sysinstall
