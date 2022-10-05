@@ -50,8 +50,6 @@ harfbuzz
 hdparm
 hyperv
 hwinfo
-ipw2100-fw
-ipw2200-fw
 irssi
 iw
 jfsutils
@@ -163,7 +161,7 @@ nss-mdns
 mobile-broadband-provider-info
 modemmanager
 networkmanager
-networkmanager-applet
+network-manager-applet
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
@@ -195,9 +193,8 @@ pipewire
 pipewire-alsa
 pulsemixer
 
-# Flickerless boot (plymouth is optional now, have lots of issues)
-# plymouth-git
-# phyOS-plymouth-cyanide-theme
+plymouth-git
+phyOS-plymouth-cyanide-theme
 
 # login manager
 sddm
@@ -230,6 +227,7 @@ bluez-utils
 
 # installer
 grub
+phyOS-grub-xenlism-theme
 os-prober
 
 # nvidia firmware
