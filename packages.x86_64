@@ -8,7 +8,7 @@ base
 base-devel
 bind-tools
 broadcom-wl
-btrfs-progs
+#btrfs-progs
 calcurse
 clonezilla
 cloud-init
@@ -36,7 +36,7 @@ f2fs-tools
 fatresize
 fakeroot
 feh
-ffmpeg
+#ffmpeg
 fzf
 fsarchiver
 glow
@@ -51,7 +51,6 @@ hdparm
 hyperv
 hwinfo
 irssi
-iw
 jfsutils
 lftp
 lib32-gtk3
@@ -64,10 +63,10 @@ lib32-v4l-utils
 libxss
 light
 linux
-linux-atm
+#linux-atm
 linux-firmware
-linux-firmware-qlogic
-linux-firmware-marvell
+#linux-firmware-qlogic
+#linux-firmware-marvell
 lsscsi
 lvm2
 lsb-release
@@ -90,20 +89,20 @@ nano
 nbd
 ndisc6
 neovim
-neofetch
+#neofetch
 nfs-utils
 nilfs-utils
-nodejs
-npm
+#nodejs
+#npm
 nmap
 ntfs-3g
 nvme-cli
 openconnect
 openssh
 openvpn
-papirus-icon-theme
-partclone
-parted
+# papirus-icon-theme
+#partclone
+#parted
 partimage
 ppp
 pptpclient
@@ -125,7 +124,7 @@ sudo
 syslinux
 systemd
 tcpdump
-thunar
+#thunar
 testdisk
 udftools
 usb_modeswitch
@@ -141,8 +140,8 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-zathura
-zathura-pdf-poppler
+#zathura
+#zathura-pdf-poppler
 zip
 unzip
 zsh
@@ -150,7 +149,7 @@ zsh-completions
 zsh-fast-syntax-highlighting-git
 
 # utils
-ungoogled-chromium
+# ungoogled-chromium
 gotop
 jgmenu
 conky
@@ -220,10 +219,10 @@ xf86-video-vmware
 mesa
 
 #bluetooth
-blueberry
-bluez
-bluez-libs
-bluez-utils
+# blueman
+# bluez
+# bluez-libs
+# bluez-utils
 
 # installer
 grub
