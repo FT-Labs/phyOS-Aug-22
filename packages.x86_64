@@ -8,7 +8,7 @@ base
 base-devel
 bind-tools
 broadcom-wl
-#btrfs-progs
+btrfs-progs
 calcurse
 clonezilla
 cloud-init
@@ -101,8 +101,8 @@ openconnect
 openssh
 openvpn
 # papirus-icon-theme
-#partclone
-#parted
+partclone
+parted
 partimage
 ppp
 pptpclient
