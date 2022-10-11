@@ -36,7 +36,7 @@ f2fs-tools
 fatresize
 fakeroot
 feh
-#ffmpeg
+ffmpeg
 fzf
 fsarchiver
 glow
@@ -179,7 +179,6 @@ xorg-xinit
 xorg-xmessage
 xsel
 xwallpaper
-yay
 
 # sound
 alsa-firmware
@@ -219,10 +218,10 @@ xf86-video-vmware
 mesa
 
 #bluetooth
-# blueman
-# bluez
-# bluez-libs
-# bluez-utils
+blueman
+bluez
+bluez-libs
+bluez-utils
 
 # installer
 grub
